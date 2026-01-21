@@ -1,4 +1,4 @@
-# Real Time Object Detection System 
+# Real Time Object Detection
 
 A deep learning–based **Real Time Object Detection System** implemented using **YOLOv8**. The system is capable of detecting and localizing multiple objects in images and video streams with **high accuracy and real-time speed**.
 
